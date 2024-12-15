@@ -1,5 +1,3 @@
-# Kalender Jawa
-
 Iki dipersembahake kanggo repositori pangembangan Kalender Jawa digital.
 
 [Pustaka Kalender Jawa](https://github.com/kalenderjawa/pustaka)
