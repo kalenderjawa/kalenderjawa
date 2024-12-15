@@ -17,8 +17,9 @@ Kalender Jawa adhedhasar matematika lan dilestarikake saka generasi menyang gene
 
 API iki gampang digunakake umpamane yen sampeyan pengin ngerti rumus matematika sasi `romadon` ing taun Jawa 1952,
 
-```javascript
+```js
 KalenderJawa.cariRumusAbadiAwalBulanTahunJawa('romadon', 1952).then(data => {
   console.log(`${data.rumus.wulan.wulan}_${data.rumus.dino}_${data.rumus.pasaran}`)
   // romadon_7_4 (don tu pat)
 })
+```
