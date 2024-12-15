@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kalender Jawa</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1, h2 {
+      color: #000;
+    }
+    a {
+      color: #0073e6;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    blockquote {
+      background: #f0f0f0;
+      border-left: 5px solid #ccc;
+      margin: 10px 0;
+      padding: 10px;
+      font-style: italic;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin-top: 20px;
+      font-size: 14px;
+    }
+    table, th, td {
+      border: 1px solid #ddd;
+    }
+    th, td {
+      padding: 8px;
+      text-align: center;
+    }
+    th {
+      background-color: #f4f4f4;
+    }
+    code {
+      background: #272822;
+      color: #f8f8f2;
+      padding: 2px 5px;
+      border-radius: 4px;
+      font-family: "Courier New", monospace;
+    }
+    pre {
+      background: #272822;
+      color: #f8f8f2;
+      padding: 10px;
+      border-radius: 4px;
+      overflow-x: auto;
+    }
+    footer {
+      margin-top: 20px;
+      text-align: center;
+      font-size: 12px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>&#x1F4C5; Kalender Jawa</h1>
+  </header>
+
+  <main>
+    <p>Iki dipersembahake kanggo repositori pangembangan Kalender Jawa digital.</p>
+    <p><a href="#">Pustaka Kalender Jawa</a></p>
+
+    <h2>Pustaka</h2>
+    <p>Pustaka iku perpustakaan JavaScript kanggo Kalender Jawa.</p>
+
+    <blockquote>
+      Kalender Jawa iku sistem kalender adhedhasar bulan. Wong Jawa nggunakake iki kanggo akeh tujuan ing urip saben dina nganti saiki wiwit abad kaping 14.
+    </blockquote>
+
+    <h2>Rumus Matematika Kalender Jawa</h2>
+    <p>Kalender Jawa adhedhasar matematika lan dilestarikake saka generasi menyang generasi liwat rumus matematika. Ironis, ora akeh generasi anyar sing ngerti utawa sadhar babagan ilmu iki.</p>
+<img src="https://assets.caknun.com/media/2019/01/20190102-menek-kalender-4.jpg" alt="rumus"/>
+    <h2>API</h2>
+    <p>API iki gampang digunakake umpamane yen sampeyan pengin ngerti rumus matematika sasi <code>romadon</code> ing taun Jawa 1952,</p>
+
+    <pre>
+<code>KalenderJawa.cariRumusAbadiAwalBulanTahunJawa('romadon', 1952).then(data => {
+  console.log(`${data.rumus.wulan.wulan}_${data.rumus.dino}_${data.rumus.pasaran}`)
+  // romadon_7_4 (don tu pat)
+})</code>
+    </pre>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Kalender Jawa Digital</p>
+  </footer>  
+</body>
+</html>
