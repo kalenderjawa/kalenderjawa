@@ -120,7 +120,21 @@ Kalender Jawa memiliki keteraturan luar biasa, memungkinkan perhitungan pola-pol
 
 ### Rumus Hafalan Awal Bulan Kalender Jawa Abadi
 
-![Rumus Matematika Kalender Jawa](https://assets.caknun.com/media/2019/01/20190102-menek-kalender-4.jpg)
+| SASI/TAHUN IN SEWINDU          | 1. ALIP     | 2. EHE      | 3. JIMAWAL   | 4. JE       | 5. DAL     | 6. BE       | 7. WAWU     | 8. JIMAKIR   |
+|---------------|-------------|-------------|-------------|-------------|------------|------------|------------|-------------|
+| **1. Mukarom**      | Rom Ji Ji   | Rom Mo Mo   | Rom Lu Mo   | Rom Tu Pat  | Rom Pat Lu  | Rom Ro Lu   | Rom Nem Ro  | Rom Lu Ji   |
+| **2. Sapar**        | Par Lu Ji   | Par Tu Mo   | Par Mo Mo   | Par Ro Pat  | Par Nem Lu  | Par Pat Lu  | Par Ji Ro   | Par Mo Ji   |
+| **3. Robi'ulawal**  | Rowal Pat Mo| Rowal Ji Pat| Rowal Nem Pat| Rowal Lu Lu | Rowal Tu Ro | Rowal Mo Ro | Rowal Ro Ji | Rowal Nem Mo|
+| **4. Robi'ulakir**  | Rokir Nem Mo| Rokir Lu Pat| Rokir Ji Pat| Rokir Mo Lu | Rokir Ro Ro | Rokir Tu Ro | Rokir Pat Ji| Rokir Ji Mo |
+| **5. Jumadilawal**  | Juwal Tu Pat| Juwal Pat Lu| Juwal Ro Lu | Juwal Nem Ro| Juwal Lu Ji | Juwal Ji Ji | Juwal Mo Mo | Juwal Ro Pat|
+| **6. Jumadilakir**  | Jukir Ro Pat| Jukir Nem Lu| Jukir Pat Lu| Jukir Ji Ro | Jukir Mo Ji | Jukir Lu Ji | Jukir Tu Mo | Jukir Pat Pat|
+| **7. Rojab**        | Jab Lu Lu   | Jab Tu Ro   | Jab Mo Ro   | Jab Ro Ji   | Jab Nem Mo  | Jab Pat Mo  | Jab Ji Pat  | Jab Mo Lu   |
+| **8. Sakban**       | Ban Mo Lu   | Ban Ro Ro   | Ban Tu Ro   | Ban Pat Ji  | Ban Ji Mo   | Ban Nem Mo  | Ban Lu Pat  | Ban Tu Lu   |
+| **9. Romadon**      | Don Nem Ro  | Don Lu Ji   | Don Ji Ji   | Don Mo Mo   | Don Ro Pat  | Don Tu Pat  | Don Pat Lu  | Don Ji Ro   |
+| **10. Sawal**       | Wal Ji Ro   | Wal Mo Ji   | Wal Lu Ji   | Wal Tu Mo   | Wal Pat Pat | Wal Ro Pat  | Wal Nem Lu  | Wal Lu Ro   |
+| **11. Dulkodah**    | Dah Ro Ji   | Dah Nem Mo  | Dah Pat Mo  | Dah Ji Pat  | Dah Mo Lu   | Dah Lu Ji   | Dah Tu Ro   | Dah Pat Ji  |
+| **12. Dulkijah**    | Jah Pat Ji  | Jah Ji Mo   | Jah Nem Mo  | Jah Lu Pat  | Jah Tu Lu   | Jah Mo Lu   | Jah Ro Ro   | Jah Nem Ji  |
+
 [(*sumber gambar*)](https://www.caknun.com/2019/kalender-jowo-digowo-kalender-arab-digarap-kalender-barat-diruwat)
 
 Contoh untuk menghitung awal bulan *1 Suro (Mukarom) 1953 J* (1 September 2019 M):
