@@ -1,5 +1,3 @@
-Iki dipersembahake kanggo repositori pangembangan Kalender Jawa digital.
-
 [Pustaka Kalender Jawa](https://github.com/kalenderjawa/pustaka)
 
 **Pustaka** iku perpustakaan JavaScript kanggo Kalender Jawa.
